@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Prasang Maheshwari </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sparsh Jhariya </h1>
 <h3 align="center">Web Developer | Programmer | Designer</h3>
 <p align="center">
 <a href="https://https://www.codechef.com/users/sparsh3435 target="blank"><img align="center" src="https://icons-for-free.com/download-icon-codechef-1324440139527402917_512.png" alt="Codechef" height="30" width="40" /></a>
@@ -93,7 +93,7 @@
 
 ## ⚙️Git Analytics
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Prasang023&theme=dark&show_icons=true" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sparsh2002&theme=dark&show_icons=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh2002&theme=dark&layout=compact" width="410" /></p>
 
 ## 🔥 My contribution streak
