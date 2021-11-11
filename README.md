@@ -94,7 +94,7 @@
 ## ⚙️Git Analytics
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Prasang023&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasang023&theme=dark&layout=compact" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh2002&theme=dark&layout=compact" width="410" /></p>
 
 ## 🔥 My contribution streak
 
