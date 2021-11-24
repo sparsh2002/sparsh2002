@@ -4,8 +4,7 @@
 <a href="https://https://www.codechef.com/users/sparsh3435 target="blank"><img align="center" src="https://icons-for-free.com/download-icon-codechef-1324440139527402917_512.png" alt="Codechef" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sparsh-jhariya3435/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/yours_truly_sj_/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="instagram" height="30" width="40" /></a>
-
- <a href = "mailto: sparsh3435@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<a href = "mailto: sparsh3435@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 <p align="center">
   <em>
