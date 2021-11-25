@@ -99,6 +99,6 @@
 
 <p align="center">
   <a href="https://github.com/sparsh2002/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasang023#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparsh2002#version3"/>
   </a>
 </p>
