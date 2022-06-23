@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sparsh Jhariya </h1>
 <h3 align="center">Web Developer | Programmer | Designer</h3>
 <p align="center">
-<a href="https://www.codechef.com/users/sparsh3435"><img align="center" src="https://icons-for-free.com/download-icon-codechef-1324440139527402917_512.png" alt="Codechef" height="30" width="40" /></a>
+<a href="https://leetcode.com/sparsh3435/"><img align="center" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="Leetcode" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sparsh-jhariya3435/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/yours_truly_sj_/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="instagram" height="30" width="40" /></a>
 <a href = "mailto: sparsh3435@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
