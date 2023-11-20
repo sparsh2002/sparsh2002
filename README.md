@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <em>
-    Hello, I am Sparsh Jhariya, an undergraduate <b>sophomore</b> from <a href="http://www.iiitsurat.ac.in/"> <b>Indian Institute of Informmation Technology, Surat,</b></a> India. <br>
+    Hello, I am Sparsh Jhariya, an undergraduate <b>final year student</b> from <a href="http://www.iiitsurat.ac.in/"> <b>Indian Institute of Informmation Technology, Surat,</b></a> India. <br>
     <b>a passionate self-learner</b> and a <b>Web Developer</b>&nbsp &nbsp,<br>who is <b>obsessed</b>
     with <b>Graphic Design</b>.
   </em>
