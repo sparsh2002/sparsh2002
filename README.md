@@ -7,13 +7,9 @@
 <a href = "mailto: sparsh3435@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 <p align="center">
-  <em>
-    Hello, I am Sparsh Jhariya, an undergraduate <b>final year student</b> from <a href="http://www.iiitsurat.ac.in/"> <b>Indian Institute of Informmation Technology, Surat,</b></a> India. <br>
-    <b>a passionate self-learner</b> and a <b>Web Developer</b>&nbsp &nbsp,<br>who is <b>obsessed</b>
-    with <b>Graphic Design</b>.
-  </em>
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  I'm Sparsh, currently working as an Associate AI/ML & Backend Engineer at Ideyalabs, Hyderabad.
+
+I have expertise in Python, Google Cloud,AWS,Java Spring Boot, and the MERN stack, and I also hold two patents in the document processing domain. Additionally, I’m a Knight on LeetCode with over 2,500 problems solved across various competitive programming platforms. I was also the former GDSC Lead at my institute.
 </p>
 
 ## 👨About Me
