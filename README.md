@@ -7,7 +7,7 @@
 <a href = "mailto: sparsh3435@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 <p align="center">
-  I'm Sparsh, currently working as an Data Engineer at Paytm Money , Noida.
+  I'm Sparsh, currently working as an Software Engineer - AI Team at Paytm Money , Noida.
 
 I have expertise in Python, Google Cloud,AWS,Java Spring Boot, and the MERN stack, and I also hold two patents in the document processing domain. Additionally, I’m a Knight on LeetCode with over 2,500 problems solved across various competitive programming platforms. I was also the former GDSC Lead at my institute.
 </p>
